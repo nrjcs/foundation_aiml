@@ -1,0 +1,1 @@
+This folder has the visuals of the activation maps or the feature maps of convolutionl layers

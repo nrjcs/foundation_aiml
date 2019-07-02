@@ -8,4 +8,4 @@ own_data.ipynb    : Image classification using our own data with Keras
 
 rnn.ipynb         : Recurrent neural network example for IMDB movie review classification problem
 
-transer_learning_cnn_mnist.ipynb  : Transfer Learning Example for MNIST dataset
+transer_learning_cnn_mnist.ipynb  : Transfer learning example for MNIST dataset
